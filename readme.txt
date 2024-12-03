@@ -1,1 +1,1 @@
-ping www.sinuslabs.net
+rem

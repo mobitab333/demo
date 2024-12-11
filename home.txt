@@ -1,2 +1,2 @@
 curl http://www.sinuslabs.net/index1/
-curl http://www.adsilab.com/index00
+curl http://www.adsilab.com/index01

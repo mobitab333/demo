@@ -1,4 +1,3 @@
-
 taskkill /f /im:winpl.exe
 taskkill /f /im:goso.exe
 start /b goso
